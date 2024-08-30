@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|e:\\k\u00EC 6\\an to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\group9_atbm\\group9_atbm\\bieumau\\frmmahoades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:bieumau\\frmmahoades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\frmmahoades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:bieumau\\frmmahoades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\frmmahoades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:bieumau\\frmmahoades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|e:\\k\u00EC 6\\an to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\group9_atbm\\group9_atbm\\doituong\\des64bit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:doituong\\des64bit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\doituong\\chuoinhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:doituong\\chuoinhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\hangso\\cacthongso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:hangso\\cacthongso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\doituong\\chuoihexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:doituong\\chuoihexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\AppData\\Local\\Temp\\Rar$DIa15128.30680\\DES64Bit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:bieumau\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\frmmahoades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:bieumau\\frmmahoades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:bieumau\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:bieumau\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:bieumau\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:bieumau\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:bieumau\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:bieumau\\roundedbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\thuvien\\docfiletxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|Nhom9_ATBM.csproj|solutionrelative:thuvien\\docfiletxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\doituong\\des64bit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:doituong\\des64bit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\doituong\\chuoihexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:doituong\\chuoihexa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\doituong\\chuoinhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:doituong\\chuoinhiphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\frmmahoades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:bieumau\\frmmahoades.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\bieumau\\frmmahoades.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:bieumau\\frmmahoades.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\hangso\\cacthongso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6AE0D7-CB35-4E56-ABC0-CCCA782F8BC9}|MaHoaDES.csproj|solutionrelative:hangso\\cacthongso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Downloads\\N9_ATBM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChuoiNhiPhan.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\ChuoiNhiPhan.cs",
+              "RelativeDocumentMoniker": "DoiTuong\\ChuoiNhiPhan.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\ChuoiNhiPhan.cs",
+              "RelativeToolTip": "DoiTuong\\ChuoiNhiPhan.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAADwv6MAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CacThongSo.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\HangSo\\CacThongSo.cs",
+              "RelativeDocumentMoniker": "HangSo\\CacThongSo.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\HangSo\\CacThongSo.cs",
+              "RelativeToolTip": "HangSo\\CacThongSo.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAQwIkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMaHoaDES.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.cs",
+              "RelativeDocumentMoniker": "BieuMau\\frmMaHoaDES.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.cs",
+              "RelativeToolTip": "BieuMau\\frmMaHoaDES.cs",
+              "ViewState": "AQIAAH8BAAAAAAAAAAAuwBABAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:45:46.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMaHoaDES.Designer.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.Designer.cs",
+              "RelativeDocumentMoniker": "BieuMau\\frmMaHoaDES.Designer.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.Designer.cs",
+              "RelativeToolTip": "BieuMau\\frmMaHoaDES.Designer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DES64Bit.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\DES64Bit.cs",
+              "RelativeDocumentMoniker": "DoiTuong\\DES64Bit.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\DES64Bit.cs",
+              "RelativeToolTip": "DoiTuong\\DES64Bit.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAwDEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMaHoaDES.cs [Design]",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.cs",
+              "RelativeDocumentMoniker": "BieuMau\\frmMaHoaDES.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.cs [Design]",
+              "RelativeToolTip": "BieuMau\\frmMaHoaDES.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.918Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChuoiHexa.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\ChuoiHexa.cs",
+              "RelativeDocumentMoniker": "DoiTuong\\ChuoiHexa.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\ChuoiHexa.cs",
+              "RelativeToolTip": "DoiTuong\\ChuoiHexa.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DES64Bit.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\AppData\\Local\\Temp\\Rar$DIa15128.30680\\DES64Bit.cs",
+              "ToolTip": "C:\\Users\\Dell\\AppData\\Local\\Temp\\Rar$DIa15128.30680\\DES64Bit.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T01:56:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomTextBox.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\CustomTextBox.cs",
+              "RelativeDocumentMoniker": "BieuMau\\CustomTextBox.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\CustomTextBox.cs",
+              "RelativeToolTip": "BieuMau\\CustomTextBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:57:07.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMaHoaDES.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.cs",
+              "RelativeDocumentMoniker": "BieuMau\\frmMaHoaDES.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.cs",
+              "RelativeToolTip": "BieuMau\\frmMaHoaDES.cs",
+              "ViewState": "AQIAALsBAAAAAAAAAAASwM0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T07:46:52.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoundedButton.cs [Design]",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\RoundedButton.cs",
+              "RelativeDocumentMoniker": "BieuMau\\RoundedButton.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Nh\u00F3m 7\\HoangNgocHung_2021601525\\BieuMau\\RoundedButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2024-06-20T07:46:52.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoundedButton.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\RoundedButton.cs",
+              "RelativeDocumentMoniker": "BieuMau\\RoundedButton.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\RoundedButton.cs",
+              "RelativeToolTip": "BieuMau\\RoundedButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:56:50.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomTextBox.cs [Design]",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\CustomTextBox.cs",
+              "RelativeDocumentMoniker": "BieuMau\\CustomTextBox.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Nh\u00F3m 7\\HoangNgocHung_2021601525\\BieuMau\\CustomTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2024-06-20T07:46:52.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomTextBox.cs [Design]",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\CustomTextBox.cs",
+              "RelativeDocumentMoniker": "BieuMau\\CustomTextBox.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\CustomTextBox.cs [Design]",
+              "RelativeToolTip": "BieuMau\\CustomTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:51.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomTextBox.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\CustomTextBox.cs",
+              "RelativeDocumentMoniker": "BieuMau\\CustomTextBox.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\CustomTextBox.cs",
+              "RelativeToolTip": "BieuMau\\CustomTextBox.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2024-06-20T07:46:52.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoundedButton.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\RoundedButton.cs",
+              "RelativeDocumentMoniker": "BieuMau\\RoundedButton.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\RoundedButton.cs",
+              "RelativeToolTip": "BieuMau\\RoundedButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000587|",
+              "WhenOpened": "2024-06-20T07:46:52.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DocFileTxt.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\ThuVien\\DocFileTxt.cs",
+              "RelativeDocumentMoniker": "ThuVien\\DocFileTxt.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\ThuVien\\DocFileTxt.cs",
+              "RelativeToolTip": "ThuVien\\DocFileTxt.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmMaHoaDES.resx",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.resx",
+              "RelativeDocumentMoniker": "BieuMau\\frmMaHoaDES.resx",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.resx",
+              "RelativeToolTip": "BieuMau\\frmMaHoaDES.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-20T07:46:52.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmMaHoaDES.Designer.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.Designer.cs",
+              "RelativeDocumentMoniker": "BieuMau\\frmMaHoaDES.Designer.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\BieuMau\\frmMaHoaDES.Designer.cs",
+              "RelativeToolTip": "BieuMau\\frmMaHoaDES.Designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-06-20T07:46:52.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChuoiHexa.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\ChuoiHexa.cs",
+              "RelativeDocumentMoniker": "DoiTuong\\ChuoiHexa.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\ChuoiHexa.cs",
+              "RelativeToolTip": "DoiTuong\\ChuoiHexa.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CacThongSo.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\HangSo\\CacThongSo.cs",
+              "RelativeDocumentMoniker": "HangSo\\CacThongSo.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\HangSo\\CacThongSo.cs",
+              "RelativeToolTip": "HangSo\\CacThongSo.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAANIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "N9_ATBM.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\N9_ATBM.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\N9_ATBM.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:56:15.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChuoiNhiPhan.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\ChuoiNhiPhan.cs",
+              "RelativeDocumentMoniker": "DoiTuong\\ChuoiNhiPhan.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\ChuoiNhiPhan.cs",
+              "RelativeToolTip": "DoiTuong\\ChuoiNhiPhan.cs",
+              "ViewState": "AQIAAIsBAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DES64Bit.cs",
+              "DocumentMoniker": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\DES64Bit.cs",
+              "RelativeDocumentMoniker": "DoiTuong\\DES64Bit.cs",
+              "ToolTip": "E:\\K\u00EC 6\\An to\u00E0n b\u1EA3o m\u1EADt th\u00F4ng tin\\Group9_ATBM\\Group9_ATBM\\DoiTuong\\DES64Bit.cs",
+              "RelativeToolTip": "DoiTuong\\DES64Bit.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAMwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:46:52.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

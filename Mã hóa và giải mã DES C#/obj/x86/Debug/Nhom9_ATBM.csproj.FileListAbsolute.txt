@@ -1,0 +1,24 @@
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\MaHoaDES.exe.config
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\MaHoaDES.exe
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\MaHoaDES.pdb
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\Nhom9_ATBM.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\Nhom9_ATBM.csproj.ResolveComReference.cache
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.Properties.Resources.resources
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\Nhom9_ATBM.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\Nhom9_ATBM.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\Nhom9_ATBM.csproj.CopyComplete
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.exe
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.pdb
+E:\Kì 6\An toàn bảo mật thông tin\Group9_ATBM\Group9_ATBM\obj\x86\Debug\Nhom9_ATBM.csproj.AssemblyReference.cache
+E:\Kì 6\An toàn bảo mật thông tin\Group9_ATBM\Group9_ATBM\obj\x86\Debug\Nhom9_ATBM.csproj.ResolveComReference.cache
+E:\Kì 6\An toàn bảo mật thông tin\Group9_ATBM\Group9_ATBM\obj\x86\Debug\MaHoaDES.BieuMau.frmMaHoaDES.resources
+E:\Kì 6\An toàn bảo mật thông tin\Group9_ATBM\Group9_ATBM\obj\x86\Debug\MaHoaDES.Properties.Resources.resources
+E:\Kì 6\An toàn bảo mật thông tin\Group9_ATBM\Group9_ATBM\obj\x86\Debug\Nhom9_ATBM.csproj.GenerateResource.cache
+E:\Kì 6\An toàn bảo mật thông tin\Group9_ATBM\Group9_ATBM\obj\x86\Debug\Nhom9_ATBM.csproj.CoreCompileInputs.cache
+E:\Kì 6\An toàn bảo mật thông tin\Group9_ATBM\Group9_ATBM\obj\x86\Debug\MaHoaDES.exe
+E:\Kì 6\An toàn bảo mật thông tin\Group9_ATBM\Group9_ATBM\obj\x86\Debug\MaHoaDES.pdb

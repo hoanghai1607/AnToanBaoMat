@@ -1,0 +1,23 @@
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.Properties.Resources.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmTienTrinh.resources
+C:\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.exe
+C:\MaHoaDES\MaHoaDES\bin\Release\MaHoaDES.pdb
+C:\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.AssemblyReference.cache
+C:\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.Properties.Resources.resources
+C:\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.GenerateResource.cache
+C:\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.CoreCompileInputs.cache
+C:\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.exe
+C:\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.pdb
+C:\MaHoaDES\MaHoaDES\bin\Release\DocumentFormat.OpenXml.dll
+C:\MaHoaDES\MaHoaDES\bin\Release\DocumentFormat.OpenXml.xml
+C:\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.CopyComplete
+C:\MaHoaDES\MaHoaDES\obj\x86\Release\MaHoaDES.csproj.ResolveComReference.cache

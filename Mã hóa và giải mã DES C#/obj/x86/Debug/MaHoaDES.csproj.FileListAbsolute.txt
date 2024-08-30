@@ -1,0 +1,26 @@
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.Properties.Resources.resources
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Debug\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\bin\Debug\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.exe
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.pdb
+C:\Users\HOANGPHUC\SkyDrive\My Works\DES\Chuong Trinh\MaHoaDES\MaHoaDES\obj\x86\Debug\MaHoaDES.BieuMau.frmTienTrinh.resources
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.csproj.ResolveComReference.cache
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.BieuMau.frmMaHoaDES.resources
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.Properties.Resources.resources
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.exe
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.pdb
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\MaHoaDES.exe.config
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\MaHoaDES.exe
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\MaHoaDES.pdb
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\admin\Downloads\Nhóm 7\HoangNgocHung_2021601525\obj\x86\Debug\MaHoaDES.csproj.CopyComplete
